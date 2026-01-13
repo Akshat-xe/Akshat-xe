@@ -10,16 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DAF1DE&background=051F2000&center=true&vCenter=true&width=500&lines=Building+Visual+Architectures;UI%2FUX+with+Figma+%26+Framer;Linux+Pop!_OS+Power+User;3+Years+of+Stealth+R%26D" alt="Typing SVG" />
 
-<br>
 
-<h3>
-<i>
-"No walls, no limits, no boundaries to tame.<br>
-Hugo SHTAR rises, a forge of relentless flame.<br>
-One mind, one flow, automation in motion.<br>
-Built not for fame, but to spark pure devotion."
-</i>
-</h3>
 
 </div>
 
@@ -41,6 +32,18 @@ Built not for fame, but to spark pure devotion."
     </td>
   </tr>
 </table>
+
+
+<br>
+
+<h3>
+<i>
+"No walls, no limits, no boundaries to tame.<br>
+Hugo SHTAR rises, a forge of relentless flame.<br>
+One mind, one flow, automation in motion.<br>
+Built not for fame, but to spark pure devotion."
+</i>
+</h3>
 
 <h3>🛠️ Tech Arsenal (3-Year Evolution)</h3>
 
