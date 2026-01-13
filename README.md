@@ -36,14 +36,7 @@
 
 <br>
 
-<h3>
-<i>
-"No walls, no limits, no boundaries to tame.<br>
-Hugo SHTAR rises, a forge of relentless flame.<br>
-One mind, one flow, automation in motion.<br>
-Built not for fame, but to spark pure devotion."
-</i>
-</h3>
+
 
 <h3>🛠️ Tech Arsenal (3-Year Evolution)</h3>
 
@@ -57,6 +50,25 @@ Built not for fame, but to spark pure devotion."
 | **JavaScript** | `▰▰▰▰▱▱▱▱▱▱` **40%** | Dynamic Interaction |
 
 ---
+
+
+
+<br>
+
+<div align="center">
+<h3>
+<i>
+"No walls, no limits, no boundaries to tame.<br>
+Hugo SHTAR rises, a forge of relentless flame.<br>
+One mind, one flow, automation in motion.<br>
+Built not for fame, but to spark pure devotion."
+</i>
+</h3>
+</div>
+
+<br>
+
+
 
 <div align="center">
 
