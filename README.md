@@ -4,7 +4,7 @@
 
 # 
 **Digital Architect & Science Enthusiast**
-`Founder @ Pleiades Shtar` | `Born: 01-09-2007` | `📍 India`
+`Founder @ Ever Shtar` | `Born: 01-09-2007` | `📍 India`
 
 [![](https://visitcount.itsvg.in/api?id=Unseen-exe&icon=4&color=DAF1DE)](https://visitcount.itsvg.in)
 
@@ -44,7 +44,6 @@
 | :--- | :--- | :--- |
 | **HTML5 / Struct** | `▰▰▰▰▰▰▰▰▰▱` **90%** | Semantic Architecture |
 | **CSS3 / Styling** | `▰▰▰▰▰▰▰▰▰▱` **90%** | Advanced Animations |
-| **Framer / UI** | `▰▰▰▰▰▰▰▰▱▱` **80%** | High-Fidelity Prototyping |
 | **Linux / Pop!_OS** | `▰▰▰▰▰▰▰▱▱▱` **70%** | Kernel Optimization |
 | **Python** | `▰▰▰▰▰▰▱▱▱▱` **60%** | Logic Scripting |
 | **JavaScript** | `▰▰▰▰▱▱▱▱▱▱` **40%** | Dynamic Interaction |
@@ -59,7 +58,7 @@
 <h3>
 <i>
 "No walls, no limits, no boundaries to tame.<br>
-Hugo SHTAR rises, a forge of relentless flame.<br>
+Ever SHTAR rises, a forge of relentless flame.<br>
 One mind, one flow, automation in motion.<br>
 Built not for fame, but to spark pure devotion."
 </i>
