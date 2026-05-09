@@ -1,84 +1,112 @@
-<img src="https://i.pinimg.com/736x/83/28/e0/8328e05caf8348ff1e69a2c97735197d.jpg" width="100%" alt="Dark Aura Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:16213e&height=220&section=header&text=AKSHAT%20KUMAR&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Founder%20%40%20Ever%20Shtar%20%7C%20Digital%20Architect%20%7C%20Automation%20Engineer&descSize=17&descAlignY=62&descColor=94a3b8" width="100%" />
 
 <div align="center">
 
-# 
-**Digital Architect & Science Enthusiast**
-`Founder @ Ever Shtar` | `Born: 01-09-2007` | `📍 India`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=4ECDC4&background=00000000&center=true&vCenter=true&width=620&lines=Building+the+future%2C+one+system+at+a+time.;Founder+%40+Ever+Shtar+—+Automation+%26+Intelligence.;Turning+complex+problems+into+elegant+solutions.;17+years+old.+3+years+of+stealth+R%26D.+Real+products." alt="Typing SVG" />
 
-[![](https://visitcount.itsvg.in/api?id=Unseen-exe&icon=4&color=DAF1DE)](https://visitcount.itsvg.in)
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DAF1DE&background=051F2000&center=true&vCenter=true&width=500&lines=Building+Visual+Architectures;UI%2FUX+with+Figma+%26+Framer;Linux+Pop!_OS+Power+User;3+Years+of+Stealth+R%26D" alt="Typing SVG" />
-
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=Akshat-xe&icon=6&color=12)](https://visitcount.itsvg.in)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Akshat-xe?label=Followers&style=social)](https://github.com/Akshat-xe)
 
 </div>
-
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h2>🧪 About Me</h2>
-      <ul>
-        <li>🔭 <strong>Current Focus:</strong> Leading <strong>Pleiades Shtar</strong> to redefine web aesthetics through Python-based design logic.</li>
-        <li>💀 <strong>Stealth Mode:</strong> Spent the last <strong>3 years</strong> developing advanced internal components and private research projects.</li>
-        <li>👾 <strong>Expertise:</strong> Bridging the gap between <strong>High-Fidelity UI (Framer/Figma)</strong> and <strong>Robust Backend Logic (Python)</strong>.</li>
-        <li>⚡ <strong>Fun Fact:</strong> I approach code like Physics—everything must have a balanced structure and an elegant flow.</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://i.pinimg.com/1200x/ff/f0/c3/fff0c31c12156bcdd23fe18eed0a5461.jpg" width="100%" style="border-radius: 15px;" alt="Akshat Aesthetic" />
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-
-
-<h3>🛠️ Tech Arsenal (3-Year Evolution)</h3>
-
-| Specialization | Proficiency | Core Tools |
-| :--- | :--- | :--- |
-| **HTML5 / Struct** | `▰▰▰▰▰▰▰▰▰▱` **90%** | Semantic Architecture |
-| **CSS3 / Styling** | `▰▰▰▰▰▰▰▰▰▱` **90%** | Advanced Animations |
-| **Linux / Pop!_OS** | `▰▰▰▰▰▰▰▱▱▱` **70%** | Kernel Optimization |
-| **Python** | `▰▰▰▰▰▰▱▱▱▱` **60%** | Logic Scripting |
-| **JavaScript** | `▰▰▰▰▱▱▱▱▱▱` **40%** | Dynamic Interaction |
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="58%">
 
+## Who I Am
 
-<br>
+I'm **Akshat Kumar** — founder of **Ever Shtar**, a digital automation company I built from the ground up at 17. For the past 3 years I've been in stealth mode, engineering real products for real clients across India and beyond.
+
+I work at the intersection of design and engineering — pixel-perfect frontends, intelligent backend systems, and automation pipelines that make complex things feel simple.
+
+- 🏢 **Founder** @ [Ever Shtar](https://evershtar.shtar.space)
+- 📍 Based in **India**
+- 🔭 Currently building **Pleiades Shtar** — next-gen web automation framework
+- ⚡ Philosophy: *Great systems should feel invisible.*
+
+</td>
+<td valign="top" width="42%">
+
+## Tech Arsenal
+
+| Skill | Level |
+|:------|:------|
+| HTML5 / CSS3 | `████████████` 90% |
+| Linux / Pop!_OS | `████████░░░░` 70% |
+| Python | `███████░░░░░` 60% |
+| FastAPI | `██████░░░░░░` 45% |
+| JavaScript | `█████░░░░░░░` 40% |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Live Projects
+
+Everything I've shipped — live, in production, open to explore.
+
+| | Project | What It Is | Live |
+|:--|:--------|:-----------|:-----|
+| ⚡ | **Ever Shtar** | Automation & digital solutions company — the mothership | [evershtar.shtar.space](https://evershtar.shtar.space) |
+| 🔍 | **Lens Shtar** | FinTech tool that unifies scattered transactions into one clear spending picture | [lens.shtar.space](https://lens.shtar.space) |
+| 🏛️ | **Indo Investor Infra World** | Premium real estate investment platform — Noida, Jewar, Dholera | [indoinvestor.shtar.space](https://indoinvestor.shtar.space) |
+| ☕ | **Love Over Coffee** | Premium vegetarian cafe, Vijay Nagar, Indore | [loveovercoffee.shtar.space](https://loveovercoffee.shtar.space) |
+| ☕ | **Orah Cafe** | Cafe experience in Perth, Australia | [orahcafe.shtar.space](https://orahcafe.shtar.space) |
+| 🍮 | **Arvind Canteen** | Traditional eatery since 1956 — Barharwa, Jharkhand | [arvindcafe.shtar.space](https://arvindcafe.shtar.space) |
+| 🌿 | **Angira's Diet Plan** | Personalized weekly wellness routine — mobile-first, bilingual | [tb-diet-plan.shtar.space](https://tb-diet-plan.shtar.space) |
+
+---
+
+## Stack
 
 <div align="center">
-<h3>
-<i>
-"No walls, no limits, no boundaries to tame.<br>
-Ever SHTAR rises, a forge of relentless flame.<br>
-One mind, one flow, automation in motion.<br>
-Built not for fame, but to spark pure devotion."
-</i>
-</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Pop!_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<br>
+---
 
-
+## GitHub Stats
 
 <div align="center">
 
-### 📬 Signal Transmission
-
-[![email](https://img.shields.io/badge/Email-0B2B26?style=for-the-badge&logo=gmail&logoColor=DAF1DE)](mailto:akshatunseen@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0B2B26?style=for-the-badge&logo=linkedin&logoColor=DAF1DE)](your-link-here)
-
-<br>
-<br>
-
-> "Science is not just what we see, but how we build what we don't."
+<img src="https://github-readme-stats.vercel.app/api?username=Akshat-xe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=c9d1d9" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-xe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9" height="165" />
 
 </div>
+
+---
+
+<div align="center">
+
+### Connect
+
+[![Email](https://img.shields.io/badge/akshatunseen%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:akshatunseen@gmail.com)
+
+<br/>
+
+> *"No walls, no limits, no boundaries to tame.*
+> *Ever SHTAR rises, a forge of relentless flame.*
+> *One mind, one flow, automation in motion.*
+> *Built not for fame — but to spark pure devotion."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=120&section=footer" width="100%" />
