@@ -20,6 +20,10 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 17-year-old founder and developer from Godda, Jharkhand. Three years building websites, digital products, and AI tools — shipped to real clients across India and internationally, without a team, without funding, without shortcuts.
 
 I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio delivering high-converting websites, automation systems, and intelligence products. Work spans cafes, real estate, fintech, and wellness. Currently building **Pleiades Shtar**, a next-gen automation framework.
@@ -30,6 +34,42 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 | **Location** | Godda, Jharkhand, India |
 | **Philosophy** | *Great systems should feel invisible.* |
 
+</td>
+<td width="40%" valign="top">
+
+**Core Skills**
+
+![](https://img.shields.io/badge/HTML5%20%2F%20CSS3-850000?style=flat-square&logo=html5&logoColor=e8e8e8)
+![](https://img.shields.io/badge/Python%20%26%20FastAPI-0a1624?style=flat-square&logo=python&logoColor=4a90d9)
+![](https://img.shields.io/badge/Responsive%20Design-2a0000?style=flat-square&logo=css3&logoColor=e8e8e8)
+![](https://img.shields.io/badge/API%20Integrations-1a0a00?style=flat-square&logo=fastapi&logoColor=009688)
+![](https://img.shields.io/badge/UI%2FUX%20%26%20Performance-1a0808?style=flat-square&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/Git%20%26%20GitHub-1a0500?style=flat-square&logo=git&logoColor=F05032)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
+
+<!-- ═══ WORK EXPERIENCE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0000,100:360000&height=42&text=WORK%20EXPERIENCE&fontSize=17&fontColor=d8d8d8&fontAlignY=57&animation=fadeIn" width="100%" />
+
+**Web Developer — Independent** &emsp; `Godda, Jharkhand`
+
+- Built high-converting websites for clients across cafes, real estate, and wellness industries
+- Developed **Lens Shtar** — an AI-powered financial dashboard that analyzes bank statements and surfaces spending insights
+- Designed premium real estate platforms with 3D-style visuals and conversion-optimized landing sections
+- Delivered fast-loading, SEO-optimized websites using HTML, CSS, JavaScript, and Python
+- Transformed business briefs into production-ready digital products using AI-assisted development workflows
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
+
+<!-- ═══ EDUCATION ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0000,100:360000&height=42&text=EDUCATION&fontSize=17&fontColor=d8d8d8&fontAlignY=57&animation=fadeIn" width="100%" />
+
+**Newton School of Technology, Delhi** &emsp; Web Development &emsp; `Self-directed`
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
 <!-- ═══ WHAT I'VE BUILT ═══ -->
@@ -37,35 +77,15 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>01 &mdash; Lens Shtar</h4>
-AI-powered fintech dashboard. Reads bank statements, maps transactions, surfaces patterns no spreadsheet can.<br/>
-<sub>Python &middot; FastAPI &middot; JavaScript &middot; HTML/CSS</sub><br/><br/>
-<a href="https://lens.shtar.space"><strong>&rarr; lens.shtar.space</strong></a>
-</td>
-<td width="50%" valign="top">
-<h4>02 &mdash; Ever Shtar</h4>
-The studio behind everything. Production websites, automation systems, and AI products — built for real clients, real markets.<br/><br/>
-<a href="https://evershtar.shtar.space"><strong>&rarr; evershtar.shtar.space</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>03 &mdash; Indo Investor Infra World</h4>
-Premium real estate platform. Noida &middot; Jewar &middot; Dholera. Built for high-intent, high-value conversion.<br/><br/>
-<a href="https://indoinvestor.shtar.space"><strong>&rarr; indoinvestor.shtar.space</strong></a>
-</td>
-<td width="50%" valign="top">
-<br/><strong>ALSO LIVE</strong><br/><br/>
-<a href="https://loveovercoffee.shtar.space">Love Over Coffee</a> &mdash; Vegetarian cafe, Indore<br/>
-<a href="https://orahcafe.shtar.space">Orah Cafe</a> &mdash; Modern cafe, Perth AU<br/>
-<a href="https://arvindcafe.shtar.space">Arvind Canteen</a> &mdash; Est. 1956, Jharkhand<br/>
-<a href="https://tb-diet-plan.shtar.space">Angira&#39;s Diet Plan</a> &mdash; Bilingual wellness app
-</td>
-</tr>
-</table>
+| # | Project | Live |
+|:--|:--------|:-----|
+| 01 | **Lens Shtar** — AI-powered fintech dashboard for bank statement analysis | [lens.shtar.space](https://lens.shtar.space) |
+| 02 | **Ever Shtar** — Digital studio: websites, automation & AI products | [evershtar.shtar.space](https://evershtar.shtar.space) |
+| 03 | **Indo Investor Infra World** — Premium real estate platform, Noida · Jewar · Dholera | [indoinvestor.shtar.space](https://indoinvestor.shtar.space) |
+| 04 | **Love Over Coffee** — Premium vegetarian cafe website, Indore | [loveovercoffee.shtar.space](https://loveovercoffee.shtar.space) |
+| 05 | **Orah Cafe** — Modern cafe experience website, Perth AU | [orahcafe.shtar.space](https://orahcafe.shtar.space) |
+| 06 | **Arvind Canteen** — Traditional eatery est. 1956, Barharwa Jharkhand | [arvindcafe.shtar.space](https://arvindcafe.shtar.space) |
+| 07 | **Angira's Diet Plan** — Bilingual mobile-first wellness app | [tb-diet-plan.shtar.space](https://tb-diet-plan.shtar.space) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
@@ -112,7 +132,7 @@ Premium real estate platform. Noida &middot; Jewar &middot; Dholera. Built for h
 &nbsp;
 [![Phone](https://img.shields.io/badge/%2B91%2092298%2078255-850000?style=for-the-badge&logo=whatsapp&logoColor=e8e8e8&labelColor=100000)](tel:+919229878255)
 &nbsp;
-[![Location](https://img.shields.io/badge/Godda%2C%20Jharkhand-650000?style=for-the-badge&logo=googlemaps&logoColor=e8e8e8&labelColor=100000)](https://maps.google.com/?q=Godda+Jharkhand)
+[![Location](https://img.shields.io/badge/Godda%2C%20Jharkhand%20814133-650000?style=for-the-badge&logo=googlemaps&logoColor=e8e8e8&labelColor=100000)](https://maps.google.com/?q=Godda+Jharkhand)
 
 <br/>
 
