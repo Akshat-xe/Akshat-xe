@@ -22,29 +22,34 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 17-year-old founder and developer from Godda, Jharkhand. Three years building websites, digital products, and AI tools — shipped to real clients across India and internationally, without a team, without funding, without shortcuts.
 
 I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio delivering high-converting websites, automation systems, and intelligence products. Work spans cafes, real estate, fintech, and wellness. Currently building **Pleiades Shtar**, a next-gen automation framework.
 
-| | |
-|:--|:--|
-| **Status** | Open to freelance & remote consulting |
-| **Location** | Godda, Jharkhand, India |
-| **Philosophy** | *Great systems should feel invisible.* |
+> *Great systems should feel invisible.*
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 **Core Skills**
 
-![](https://img.shields.io/badge/HTML5%20%2F%20CSS3-850000?style=flat-square&logo=html5&logoColor=e8e8e8)
-![](https://img.shields.io/badge/Python%20%26%20FastAPI-0a1624?style=flat-square&logo=python&logoColor=4a90d9)
-![](https://img.shields.io/badge/Responsive%20Design-2a0000?style=flat-square&logo=css3&logoColor=e8e8e8)
-![](https://img.shields.io/badge/API%20Integrations-1a0a00?style=flat-square&logo=fastapi&logoColor=009688)
-![](https://img.shields.io/badge/UI%2FUX%20%26%20Performance-1a0808?style=flat-square&logo=figma&logoColor=F24E1E)
-![](https://img.shields.io/badge/Git%20%26%20GitHub-1a0500?style=flat-square&logo=git&logoColor=F05032)
+<br/>
+
+**Front-end**<br/>
+![HTML5](https://img.shields.io/badge/HTML5-850000?style=flat-square&logo=html5&logoColor=e8e8e8)
+![CSS3](https://img.shields.io/badge/CSS3-6a0000?style=flat-square&logo=css3&logoColor=e8e8e8)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-2a0000?style=flat-square&logoColor=e8e8e8)
+
+**Backend & AI**<br/>
+![Python](https://img.shields.io/badge/Python-0a1624?style=flat-square&logo=python&logoColor=4a90d9)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1a18?style=flat-square&logo=fastapi&logoColor=009688)
+![API Integrations](https://img.shields.io/badge/API_Integrations-1a0a00?style=flat-square&logoColor=e8e8e8)
+
+**General**<br/>
+![Programming](https://img.shields.io/badge/Programming-1a1400?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-1a0500?style=flat-square&logo=git&logoColor=F05032)
 
 </td>
 </tr>
@@ -129,10 +134,6 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 <div align="center">
 
 [![Email](https://img.shields.io/badge/akshatunseen%40gmail.com-850000?style=for-the-badge&logo=gmail&logoColor=e8e8e8&labelColor=100000)](mailto:akshatunseen@gmail.com)
-&nbsp;
-[![Phone](https://img.shields.io/badge/%2B91%2092298%2078255-850000?style=for-the-badge&logo=whatsapp&logoColor=e8e8e8&labelColor=100000)](tel:+919229878255)
-&nbsp;
-[![Location](https://img.shields.io/badge/Godda%2C%20Jharkhand%20814133-650000?style=for-the-badge&logo=googlemaps&logoColor=e8e8e8&labelColor=100000)](https://maps.google.com/?q=Godda+Jharkhand)
 
 <br/>
 
