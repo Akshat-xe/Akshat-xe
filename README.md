@@ -20,40 +20,11 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 17-year-old founder and developer from Godda, Jharkhand. Three years building websites, digital products, and AI tools — shipped to real clients across India and internationally, without a team, without funding, without shortcuts.
 
 I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio delivering high-converting websites, automation systems, and intelligence products. Work spans cafes, real estate, fintech, and wellness. Currently building **Pleiades Shtar**, a next-gen automation framework.
 
 > *Great systems should feel invisible.*
-
-</td>
-<td width="45%" valign="top">
-
-**Core Skills**
-
-<br/>
-
-**Front-end**<br/>
-![HTML5](https://img.shields.io/badge/HTML5-850000?style=flat-square&logo=html5&logoColor=e8e8e8)
-![CSS3](https://img.shields.io/badge/CSS3-6a0000?style=flat-square&logo=css3&logoColor=e8e8e8)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-2a0000?style=flat-square&logoColor=e8e8e8)
-
-**Backend & AI**<br/>
-![Python](https://img.shields.io/badge/Python-0a1624?style=flat-square&logo=python&logoColor=4a90d9)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a1a18?style=flat-square&logo=fastapi&logoColor=009688)
-![API Integrations](https://img.shields.io/badge/API_Integrations-1a0a00?style=flat-square&logoColor=e8e8e8)
-
-**General**<br/>
-![Programming](https://img.shields.io/badge/Programming-1a1400?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-1a0500?style=flat-square&logo=git&logoColor=F05032)
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
