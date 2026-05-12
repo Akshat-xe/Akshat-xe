@@ -44,7 +44,7 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 <!-- ═══ EDUCATION ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0000,100:360000&height=42&text=EDUCATION&fontSize=17&fontColor=d8d8d8&fontAlignY=57&animation=fadeIn" width="100%" />
 
-**Newton School of Technology, Delhi** &emsp; Web Development &emsp; `Self-directed`
+**Undergraduate** &emsp; Web Development &emsp; `Self-directed`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
