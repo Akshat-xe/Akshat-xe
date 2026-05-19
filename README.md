@@ -99,6 +99,23 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
+<!-- ═══ LEETCODE STATS ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0000,100:360000&height=42&text=LEETCODE%20STATS&fontSize=17&fontColor=d8d8d8&fontAlignY=57&animation=fadeIn" width="100%" />
+
+<div align="center">
+
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/X1Vu9EkqhD?theme=dark&font=Roboto+Mono&ext=heatmap&border=0&radius=4&bg_color=080808&title_color=880000&ring_color=BB2222&text_color=999999)](https://leetcode.com/u/X1Vu9EkqhD/)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-X1Vu9EkqhD-850000?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0c0000)](https://leetcode.com/u/X1Vu9EkqhD/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
+
 <!-- ═══ CONNECT ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0000,100:360000&height=42&text=CONNECT&fontSize=17&fontColor=d8d8d8&fontAlignY=57&animation=fadeIn" width="100%" />
 
