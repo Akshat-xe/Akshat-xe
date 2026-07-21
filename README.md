@@ -61,7 +61,7 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 | 04 | **Love Over Coffee** — Premium vegetarian cafe website, Indore | [loveovercoffee.shtar.space](https://loveovercoffee.shtar.space) |
 | 05 | **Orah Cafe** — Modern cafe experience website, Perth AU | [orahcafe.shtar.space](https://orahcafe.shtar.space) |
 | 06 | **Arvind Canteen** — Traditional eatery est. 1956, Barharwa Jharkhand | [arvindcafe.shtar.space](https://arvindcafe.shtar.space) |
-| 07 | **Angira's Diet Plan** — Bilingual mobile-first wellness app | [tb-diet-plan.shtar.space](https://tb-diet-plan.shtar.space) |
+| 07 | **Angira's Radiant Diet Plan** — Bilingual mobile-first wellness app | [angira-diet.shtar.space](https://angira-diet.shtar.space) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
