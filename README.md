@@ -55,7 +55,7 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 
 | # | Project | Live |
 |:--|:--------|:-----|
-| 01 | **Lens Shtar** — AI-powered fintech dashboard for bank statement analysis | [lens.shtar.space](https://lens.shtar.space) |
+| 01 | **Lens Shtar** — Privacy-first AI expense analyzer & bank statement insights | [lens.shtar.space](https://lens.shtar.space) |
 | 02 | **Ever Shtar** — Digital studio: websites, automation & AI products | [evershtar.shtar.space](https://evershtar.shtar.space) |
 | 03 | **Indo Investor Infra World** — Premium real estate platform, Noida · Jewar · Dholera | [indoinvestor.shtar.space](https://indoinvestor.shtar.space) |
 | 04 | **Love Over Coffee** — Premium vegetarian cafe website, Indore | [loveovercoffee.shtar.space](https://loveovercoffee.shtar.space) |
