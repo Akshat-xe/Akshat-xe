@@ -89,14 +89,7 @@ I run **[Ever Shtar](https://evershtar.shtar.space)** — a digital studio deliv
 
 <div align="center">
 
-<a href="https://github.com/Akshat-xe">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-xe&show_icons=true&theme=dark&hide_border=true&background=080808&title_color=BB2222&icon_color=BB2222&text_color=999999&count_private=true&include_all_commits=true" height="165" />
-</a>
-<a href="https://github.com/Akshat-xe">
-  <img src="https://streak-stats.demolab.com?user=Akshat-xe&theme=dark&hide_border=true&background=080808&ring=880000&fire=BB2222&currStreakLabel=880000&sideLabels=AA5555&dates=777777" height="165" />
-</a>
-
-<br/><br/>
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshat-xe&bg_color=080808&color=777777&line=880000&point=BB2222&area=true&hide_border=true&title_color=888888&radius=4)](https://github.com/Akshat-xe)
 
