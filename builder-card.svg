@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 250" width="860" height="250">
+<defs>
+
+        <style>
+            @keyframes pulseBorder {
+                0% { stroke: #2a2e39; filter: drop-shadow(0 0 2px rgba(214,40,57,0.2)); }
+                50% { stroke: #801b25; filter: drop-shadow(0 0 8px rgba(214,40,57,0.6)); }
+                100% { stroke: #2a2e39; filter: drop-shadow(0 0 2px rgba(214,40,57,0.2)); }
+            }
+            .card-bg {
+                fill: #0d0e12;
+                rx: 12px;
+                stroke: #801b25;
+                stroke-width: 1.5px;
+                animation: pulseBorder 4s ease-in-out infinite;
+            }
+            .top-bar { fill: #16181f; rx: 12px 12px 0 0; }
+            .btn-red { fill: #ff4d4d; }
+            .btn-yellow { fill: #ffbd2e; }
+            .btn-green { fill: #27c93f; }
+            
+            .term-title {
+                font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace;
+                font-size: 11px;
+                fill: #8b949e;
+                font-weight: 600;
+            }
+            
+            .line {
+                font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace;
+                font-size: 12px;
+                opacity: 1;
+                animation: line-fade 0.4s ease-out forwards;
+            }
+            
+            @keyframes line-fade {
+                0% { opacity: 0; transform: translateY(6px); }
+                100% { opacity: 1; transform: translateY(0); }
+            }
+
+            @keyframes blink {
+                0%, 100% { opacity: 1; }
+                50% { opacity: 0; }
+            }
+            .cursor {
+                fill: #ff4d4d;
+                animation: blink 1s infinite;
+                filter: drop-shadow(0 0 4px #ff4d4d);
+            }
+
+            .prompt-user { fill: #ff4d4d; font-weight: 700; }
+            .prompt-colon { fill: #8b949e; font-weight: 500; }
+            .prompt-path { fill: #58a6ff; font-weight: 600; }
+            .prompt-symbol { fill: #ff4d4d; font-weight: 800; }
+            .cmd { fill: #ffffff; font-weight: 700; filter: drop-shadow(0 0 3px rgba(255,255,255,0.4)); }
+            .val { fill: #d0d7de; font-weight: 500; }
+            .val-bold { fill: #ffffff; font-weight: 700; }
+            .accent { fill: #ff4d4d; font-weight: 700; filter: drop-shadow(0 0 4px rgba(255,77,77,0.4)); }
+            .separator { fill: #262c36; }
+            .quote { fill: #ff4d4d; font-style: italic; font-size: 12.5px; font-weight: 700; filter: drop-shadow(0 0 6px rgba(255,77,77,0.5)); }
+        </style>
+    
+</defs>
+<rect class="card-bg" width="860" height="250" />
+<rect class="top-bar" width="860" height="34" />
+<circle cx="18" cy="17" r="5.5" class="btn-red" />
+<circle cx="34" cy="17" r="5.5" class="btn-yellow" />
+<circle cx="50" cy="17" r="5.5" class="btn-green" />
+<text x="430.0" y="21" text-anchor="middle" class="term-title">akshat@evershtar: ~/builder (zsh)</text>
+<text x="28" y="58" class="line" style="animation-delay: 0.05s;"><tspan class="prompt-user">akshat@evershtar</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~/builder</tspan><tspan class="prompt-symbol"> $ </tspan><tspan class="cmd">cat profile.md --verbose</tspan></text>
+<text x="28" y="80" class="line" style="animation-delay: 0.1s;"><tspan class="val-bold">17-year-old founder &amp; developer studying at </tspan><tspan class="accent">Newton School of Technology (NST)</tspan><tspan class="val-bold">.</tspan></text>
+<text x="28" y="100" class="line" style="animation-delay: 0.15s;"><tspan class="val">1.5+ years building websites, digital products, and AI tools — shipped to real clients</tspan></text>
+<text x="28" y="120" class="line" style="animation-delay: 0.2s;"><tspan class="val">across India and internationally, without a team, without funding, without shortcuts.</tspan></text>
+<text x="28" y="138" class="line" style="animation-delay: 0.25s;"><tspan class="separator">---------------------------------------------------------------------------------------------------</tspan></text>
+<text x="28" y="160" class="line" style="animation-delay: 0.3s;"><tspan class="prompt-user">akshat@evershtar</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~/studio</tspan><tspan class="prompt-symbol"> $ </tspan><tspan class="cmd">cat studio-information.md</tspan> <tspan class="cursor">█</tspan></text>
+<text x="28" y="182" class="line" style="animation-delay: 0.35s;"><tspan class="val">I run </tspan><tspan class="accent">Ever Shtar</tspan><tspan class="val"> — a digital studio delivering high-converting websites, automation systems,</tspan></text>
+<text x="28" y="202" class="line" style="animation-delay: 0.4s;"><tspan class="val">and intelligence products. Work spans cafes, real estate, fintech, and wellness.</tspan></text>
+<text x="28" y="224" class="line" style="animation-delay: 0.45s;"><tspan class="quote">"Great systems should feel invisible."</tspan></text>
+</svg>
