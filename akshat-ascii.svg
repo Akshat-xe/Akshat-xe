@@ -1,0 +1,377 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 390" width="430" height="390">
+<defs>
+
+        <style>
+            @keyframes pulseBorder {
+                0% { stroke: #2a2e39; filter: drop-shadow(0 0 2px rgba(214,40,57,0.2)); }
+                50% { stroke: #801b25; filter: drop-shadow(0 0 8px rgba(214,40,57,0.6)); }
+                100% { stroke: #2a2e39; filter: drop-shadow(0 0 2px rgba(214,40,57,0.2)); }
+            }
+            .card-bg {
+                fill: #0d0e12;
+                rx: 12px;
+                stroke: #801b25;
+                stroke-width: 1.5px;
+                animation: pulseBorder 4s ease-in-out infinite;
+            }
+            .top-bar { fill: #16181f; rx: 12px 12px 0 0; }
+            .btn-red { fill: #ff4d4d; }
+            .btn-yellow { fill: #ffbd2e; }
+            .btn-green { fill: #27c93f; }
+            
+            .term-title {
+                font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace;
+                font-size: 11px;
+                fill: #8b949e;
+                font-weight: 600;
+            }
+            
+            .ascii-text {
+                font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace;
+                font-size: 6.2px;
+                fill: #d62839;
+                white-space: pre;
+                letter-spacing: -0.2px;
+                font-weight: 600;
+            }
+
+            @keyframes lineWipe {
+                0% { width: 0px; }
+                100% { width: 430px; }
+            }
+            .clip-rect {
+                animation: lineWipe 0.25s ease-out forwards;
+            }
+
+            @keyframes scanline {
+                0% { transform: translateY(35px); opacity: 0.3; }
+                50% { opacity: 0.8; }
+                100% { transform: translateY(380px); opacity: 0.3; }
+            }
+            .scan-line {
+                stroke: url(#scan-grad);
+                stroke-width: 1.5;
+                animation: scanline 3s linear infinite;
+            }
+        </style>
+        <linearGradient id="scan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#d62839" stop-opacity="0" />
+            <stop offset="50%" stop-color="#ff4d4d" stop-opacity="0.8" />
+            <stop offset="100%" stop-color="#d62839" stop-opacity="0" />
+        </linearGradient>
+    
+<clipPath id="line-clip-0">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.000s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.000s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-1">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.020s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.020s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-2">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.040s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.040s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-3">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.060s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.060s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-4">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.080s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.080s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-5">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.100s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.100s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-6">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.120s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.120s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-7">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.140s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.140s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-8">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.160s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.160s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-9">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.180s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.180s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-10">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.200s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.200s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-11">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.220s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.220s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-12">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.240s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.240s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-13">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.260s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.260s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-14">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.280s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.280s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-15">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.300s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.300s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-16">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.320s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.320s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-17">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.340s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.340s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-18">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.360s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.360s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-19">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.380s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.380s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-20">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.400s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.400s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-21">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.420s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.420s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-22">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.440s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.440s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-23">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.460s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.460s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-24">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.480s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.480s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-25">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.500s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.500s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-26">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.520s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.520s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-27">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.540s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.540s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-28">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.560s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.560s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-29">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.580s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.580s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-30">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.600s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.600s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-31">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.620s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.620s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-32">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.640s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.640s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-33">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.660s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.660s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-34">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.680s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.680s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-35">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.700s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.700s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-36">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.720s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.720s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-37">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.740s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.740s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-38">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.760s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.760s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-39">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.780s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.780s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-40">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.800s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.800s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-41">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.820s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.820s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-42">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.840s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.840s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-43">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.860s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.860s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-44">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.880s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.880s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-45">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.900s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.900s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-46">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.920s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.920s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-47">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.940s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.940s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-48">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.960s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.960s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-49">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 0.980s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="0.980s" fill="freeze" />
+  </rect>
+</clipPath>
+<clipPath id="line-clip-50">
+  <rect class="clip-rect" x="0" y="0" width="430" height="390" style="animation-delay: 1.000s;">
+    <animate attributeName="width" from="0" to="430" dur="0.25s" begin="1.000s" fill="freeze" />
+  </rect>
+</clipPath>
+</defs>
+<rect class="card-bg" width="430" height="390" />
+<rect class="top-bar" width="430" height="32" />
+<circle cx="18" cy="16" r="5.5" class="btn-red" />
+<circle cx="34" cy="16" r="5.5" class="btn-yellow" />
+<circle cx="50" cy="16" r="5.5" class="btn-green" />
+<text x="215.0" y="20" text-anchor="middle" class="term-title">akshat@evershtar ~ $ ./portrait</text>
+<g clip-path="url(#line-clip-0)"><text x="15.5" y="44.0" class="ascii-text">                                            #Xx===xXxXXXXXX%#                                            </text></g>
+<g clip-path="url(#line-clip-1)"><text x="15.5" y="50.3" class="ascii-text">                                        #%x=xx=-+=X%%%XX%%XxXXX%$                                        </text></g>
+<g clip-path="url(#line-clip-2)"><text x="15.5" y="56.6" class="ascii-text">                                      #=-xxxxxxX%%%########%%%%%XX#                                      </text></g>
+<g clip-path="url(#line-clip-3)"><text x="15.5" y="62.9" class="ascii-text">                                     x~~+=--++-==x%##########$#%%%XX#                                    </text></g>
+<g clip-path="url(#line-clip-4)"><text x="15.5" y="69.2" class="ascii-text">                                    -;++---+-x=X%X%###%#$#$$$$#$$##%XX#                                  </text></g>
+<g clip-path="url(#line-clip-5)"><text x="15.5" y="75.5" class="ascii-text">                                   =:~+==x=x####XX##%%#$$$$$$$$@$##%%XX#                                 </text></g>
+<g clip-path="url(#line-clip-6)"><text x="15.5" y="81.8" class="ascii-text">                                   ';+=x===##X%X%%$$#$$$$##$$$$$$###%XXX#                                </text></g>
+<g clip-path="url(#line-clip-7)"><text x="15.5" y="88.1" class="ascii-text">                                  +:!+---=XxxX%%X%%##%%#%XX%XX%##%%#%XX%X                                </text></g>
+<g clip-path="url(#line-clip-8)"><text x="15.5" y="94.4" class="ascii-text">                                  ;~--=+~++-=====x==-=x-++++--=xxX%%%###%                                </text></g>
+<g clip-path="url(#line-clip-9)"><text x="15.5" y="100.7" class="ascii-text">                                 %:-=Xx;'::;!+++~~~!!~~!;;;;!~+-=xX%%$$##                                </text></g>
+<g clip-path="url(#line-clip-10)"><text x="15.5" y="107.0" class="ascii-text">                                  ~-xx+.  ..'::::::''::''''':!~+-==x####                                 </text></g>
+<g clip-path="url(#line-clip-11)"><text x="15.5" y="113.3" class="ascii-text">                                  %~==+.        .           .:!~---+x#%#                                 </text></g>
+<g clip-path="url(#line-clip-12)"><text x="15.5" y="119.6" class="ascii-text">                                    -=+    .'''..         .;-x%%%%%+~%#                                  </text></g>
+<g clip-path="url(#line-clip-13)"><text x="15.5" y="125.9" class="ascii-text">                                     %~ '!=xXXXx=-~;:'':~x%##xxxX=x-;%#x#                                </text></g>
+<g clip-path="url(#line-clip-14)"><text x="15.5" y="132.2" class="ascii-text">                                     +;'~+=xX%%###%=~~=x##%x-XXX~=-~!-x=X                                </text></g>
+<g clip-path="url(#line-clip-15)"><text x="15.5" y="138.5" class="ascii-text">                                     ='.!-=+%$#x%Xx=::~x#%%X+xX-~xx--~-=X                                </text></g>
+<g clip-path="url(#line-clip-16)"><text x="15.5" y="144.8" class="ascii-text">                                      ' '':;+==--+~:   ~%%x+!::!~!!!+++=%                                </text></g>
+<g clip-path="url(#line-clip-17)"><text x="15.5" y="151.1" class="ascii-text">                                      :    .':!:       '=X=;:'':'':;~~-x#                                </text></g>
+<g clip-path="url(#line-clip-18)"><text x="15.5" y="157.4" class="ascii-text">                                      -    ':;'.''     .~xx!. .''':!~~=%                                 </text></g>
+<g clip-path="url(#line-clip-19)"><text x="15.5" y="163.7" class="ascii-text">                                       :.'''   '!:     :~+!~.  .';!~~+X                                  </text></g>
+<g clip-path="url(#line-clip-20)"><text x="15.5" y="170.0" class="ascii-text">                                       X::.  ..:;.'+; .:-X==;..':;!~+X                                   </text></g>
+<g clip-path="url(#line-clip-21)"><text x="15.5" y="176.3" class="ascii-text">                                        -:.       .;-=+x$@@%x-~;!!!~x#                                   </text></g>
+<g clip-path="url(#line-clip-22)"><text x="15.5" y="182.6" class="ascii-text">                                         ~:...;~+~!++===x%%%#$$X+~~=%                                    </text></g>
+<g clip-path="url(#line-clip-23)"><text x="15.5" y="188.9" class="ascii-text">                                         %~;'!X$$X-+~~!~-=XX%%==+~=X$                                    </text></g>
+<g clip-path="url(#line-clip-24)"><text x="15.5" y="195.2" class="ascii-text">                                          %+::=Xx-;..:;::!-==+~-~+X$                                     </text></g>
+<g clip-path="url(#line-clip-25)"><text x="15.5" y="201.5" class="ascii-text">                                           #-:;~~!!;;!!~~~!+++---xX                                      </text></g>
+<g clip-path="url(#line-clip-26)"><text x="15.5" y="207.8" class="ascii-text">                                            =+-;;~~~~+-==++=xx==X%x#                                     </text></g>
+<g clip-path="url(#line-clip-27)"><text x="15.5" y="214.1" class="ascii-text">                                       =++-x;'-=!:;!;;!!;!+=XXX%%Xx%                                     </text></g>
+<g clip-path="url(#line-clip-28)"><text x="15.5" y="220.4" class="ascii-text">                                    X!   !+. .:+==++++-==+-=X%%Xxxxx#%XX%                                </text></g>
+<g clip-path="url(#line-clip-29)"><text x="15.5" y="226.7" class="ascii-text">                                  %;   ..x=.  '!+-=xxxX%%XX%%Xxxx=xxX-:::!X                              </text></g>
+<g clip-path="url(#line-clip-30)"><text x="15.5" y="233.0" class="ascii-text">                                 -    .. +#!'.:!~+-========xxxxxxxxX#%;;::'+                             </text></g>
+<g clip-path="url(#line-clip-31)"><text x="15.5" y="239.3" class="ascii-text">                            X--+!    .'' .X%!:;!~+-=x=====-===xxxxX%$x;;::''~-=X%                        </text></g>
+<g clip-path="url(#line-clip-32)"><text x="15.5" y="245.6" class="ascii-text">                   %X=-+;::' !x+'    .''  .=%~:;;;!~-===--+++=X%%XX%$!.''..':;;;;!~+=X%                  </text></g>
+<g clip-path="url(#line-clip-33)"><text x="15.5" y="251.9" class="ascii-text">               %=!::!.':'!!.'=+'     ....  '--~!:':;~-==+!:';+=x%%#$~    .:'';~!;:!~;'':~X               </text></g>
+<g clip-path="url(#line-clip-34)"><text x="15.5" y="258.2" class="ascii-text">            x-::.:; +=;;!!~.~x: .       .'.   '!::::+xx=+;. .:;;+xX;  '!!+--+!!~+:;~~+~'.'!=%            </text></g>
+<g clip-path="url(#line-clip-35)"><text x="15.5" y="264.5" class="ascii-text">         -;.'; :=-: :X-!~+;.xx:.    .:~=X#X~!!!~;:''!==-+!:'':;!++. !-=XX~;;!!!!-~;'';+~;;'':!=%         </text></g>
+<g clip-path="url(#line-clip-36)"><text x="15.5" y="270.8" class="ascii-text">       !...'+~ :x-: '=X+~! :X-:. .;=Xx-~-===+~~~+--x~'!++!:::;!~+..-=-x=-~:::..:+!!!'':~+~!:':':~        </text></g>
+<g clip-path="url(#line-clip-37)"><text x="15.5" y="277.1" class="ascii-text">     -  !! :-; '=X; .-X=~..~=+:::!+x!. .:!~~:''   -##:  :~~;;!!~.'=+~--++~~: '':'~;;~:..:!!'.;;:'!       </text></g>
+<g clip-path="url(#line-clip-38)"><text x="15.5" y="283.4" class="ascii-text">    : . ~+ !=: :XX!  +X=; !XX~'.'':!'  .:;~+!;''.  .':'   ;-+~+'.-+~~!:''~~!''::::+;'!!:'''' .!;;'~      </text></g>
+<g clip-path="url(#line-clip-39)"><text x="15.5" y="289.7" class="ascii-text">   : .. !x;+X~ ;XX~. ~Xx!!!=X~'..;~~:  .:;+-!~;''... :::'  '-x! ==-+!:'''!~~~~!''';-~';~!;;:' :+!:'=     </text></g>
+<g clip-path="url(#line-clip-40)"><text x="15.5" y="296.0" class="ascii-text">  :' .. :x:;x! !XX+. !XX-;~xx~;~'';~;. .':~=~;:!+;'.:'.:~!:  =.+Xx+!;;;:..;~~+~..'.;-+:;!!!~:  !+;'!$    </text></g>
+<g clip-path="url(#line-clip-41)"><text x="15.5" y="302.3" class="ascii-text">x'!. '' :=x+-;.=%X~. !Xx''-XX=-!.';~!. '.':+-!+-~~!!:.'..:;!: ;#X=+~!;:.. .:~~:... .:++!;!;!+:  +!:.=#   </text></g>
+<g clip-path="url(#line-clip-42)"><text x="15.5" y="308.6" class="ascii-text"> ~~ .;; 'x%=~.:X%x~. !x! ~xXx=+. :!!;'  ..';+=++~!~~'.'!;::;-'X#x+!!!:.'....':::'.  .;~+~:~!~+' '+~;~-   </text></g>
+<g clip-path="url(#line-clip-43)"><text x="15.5" y="314.9" class="ascii-text">:=. ';; :XXx!.=XX=~' ;=! ;xX=;   ;!;::'....'!+'.;++~~~~+:;~'.!$#x~!:''''''....:;;;'  '~;~!~-+++..+=----  </text></g>
+<g clip-path="url(#line-clip-44)"><text x="15.5" y="321.2" class="ascii-text">-+  ':; !%Xx:;XXx-~' :-:.+~!'   :~!:':!:.  :'.::!-+~!!;!~x~. =$xX~''::::':'''...':;;' '+::~~+-=! ;==+=!= </text></g>
+<g clip-path="url(#line-clip-45)"><text x="15.5" y="327.5" class="ascii-text">x; .;;..!--; !xx=-!'.;~ ~~'. ..:~~!:';~;:....  :!+~!!~=%X~' .X%+x~'  ';!!:''.'''...':;.'+;:;!--=' +++=+:X</text></g>
+<g clip-path="url(#line-clip-46)"><text x="15.5" y="333.8" class="ascii-text">=: '!;.~+!+'.-xx=+!:::.:+;:;:..;~!:':;!;;'''' '.  '!-xX-''~ 'Xx;=!.;;..':;:'...'''...':.'~!':+=x+ ;=!-=;:</text></g>
+<g clip-path="url(#line-clip-47)"><text x="15.5" y="340.1" class="ascii-text">='.:;;.;=;~ :=x=-+;'.. !~!!:. .;!!;'':;;;:'':;'..':;--: .=~ :xX.~='.!+: ..:!:''..:::'.. ..;~::=Xx.'=:;=!'</text></g>
+<g clip-path="url(#line-clip-48)"><text x="15.5" y="346.4" class="ascii-text">-:';!!:.=!: ~=x-+: .:..!!;'  .'::;!:'::::'':;;:';!+~!. '=X' !=X:!x+. ;-!.:+-+::'!!':;!;.   '~!:xX;.x~;=!'</text></g>
+<g clip-path="url(#line-clip-49)"><text x="15.5" y="352.7" class="ascii-text">-:';!!!.~+ '=xx+;.;-~ :!!:.....:::!;:!;;:::!!!;!;!~;..;X%+  ~-=;~=;~. '~-=-+++;:!;'':~~''.   !~~X+.=-!-~:</text></g>
+<g clip-path="url(#line-clip-50)"><text x="15.5" y="359.0" class="ascii-text">+;':;!!':! !-==~!+=+. ;~!:''..:;:;;:;!;;;;!~~!;!::::'~=X='. !++;;+';~...+=++~~+!.':'.:;'==+!' !~--'~-!~!;</text></g>
+<line x1="5" y1="0" x2="425" y2="0" class="scan-line" />
+</svg>
