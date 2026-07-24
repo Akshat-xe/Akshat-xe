@@ -13,11 +13,6 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- ═══ CONTRIBUTION HEATMAP ═══ -->
-<img src="./contrib-heatmap.svg" width="860" alt="Live Contribution Heatmap" />
-
 </div>
 
 <br/>
