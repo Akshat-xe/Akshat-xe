@@ -134,3 +134,7 @@
 
 ## Browser Support
 - Chrome, Firefox, Safari, Edge (latest 2 versions).
+
+
+## Authentication Flow
+- Tokens stored securely with automatic expiration renewal.
