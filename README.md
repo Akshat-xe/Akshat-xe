@@ -126,3 +126,7 @@
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:900000,55:480000,100:050505&height=110&section=footer" width="100%" />
+
+
+## Error Handling
+- All API endpoints return `{ status, code, message }` JSON payloads on failure.
