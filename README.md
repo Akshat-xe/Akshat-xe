@@ -130,3 +130,7 @@
 
 ## Error Handling
 - All API endpoints return `{ status, code, message }` JSON payloads on failure.
+
+
+## Browser Support
+- Chrome, Firefox, Safari, Edge (latest 2 versions).
