@@ -127,18 +127,3 @@
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:900000,55:480000,100:050505&height=110&section=footer" width="100%" />
 
-
-## Error Handling
-- All API endpoints return `{ status, code, message }` JSON payloads on failure.
-
-
-## Browser Support
-- Chrome, Firefox, Safari, Edge (latest 2 versions).
-
-
-## Authentication Flow
-- Tokens stored securely with automatic expiration renewal.
-
-
-## Security Sanitization
-- All user-generated HTML content sanitized prior to rendering.
