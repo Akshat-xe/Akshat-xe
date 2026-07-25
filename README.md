@@ -138,3 +138,7 @@
 
 ## Authentication Flow
 - Tokens stored securely with automatic expiration renewal.
+
+
+## Security Sanitization
+- All user-generated HTML content sanitized prior to rendering.
