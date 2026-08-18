@@ -22,6 +22,16 @@
 
 <br/>
 
+### Featured private projects
+
+| # | Project | Repository | Live Link |
+|:--|:--------|:-----------|:----------|
+| 01 | **Lost & Found** — Community lost-item recovery platform | [Private repository](https://github.com/Akshat-xe/Lost-and-Found-Corporation-NST) | [lostandfound.shtar.space](https://lostandfound.shtar.space) |
+| 02 | **Kaya Remedies** — Modern botanical and natural-remedy library | [Private repository](https://github.com/Akshat-xe/Kaya-Remedies-Shtar) | [kayaremedies.online](https://kayaremedies.online) |
+| 03 | **SHTAR MC** — Android Minecraft server-hosting app | [Private Android app repository](https://github.com/Akshat-xe/Shtar-MC) | Android app |
+
+### Public repositories
+
 | # | Project | Repository | Live Link |
 |:--|:--------|:-----------|:----------|
 | 01 | **Lens Shtar** — Privacy-first AI expense analyzer & bank statement insights | [github.com/Akshat-xe/Lens-Shtar](https://github.com/Akshat-xe/Lens-Shtar) | [lens.shtar.space](https://lens.shtar.space) |
@@ -30,10 +40,8 @@
 | 04 | **Love Over Coffee** — Premium vegetarian cafe website, Indore | [github.com/Akshat-xe/Love-Over-Coffee](https://github.com/Akshat-xe/Love-Over-Coffee) | [loveovercoffee.shtar.space](https://loveovercoffee.shtar.space) |
 | 05 | **Orah Cafe** — Modern cafe experience website, Perth AU | [github.com/Akshat-xe/Orah-Cafe](https://github.com/Akshat-xe/Orah-Cafe) | [orahcafe.shtar.space](https://orahcafe.shtar.space) |
 | 06 | **Arvind Canteen** — Traditional eatery est. 1956, Barharwa Jharkhand | [github.com/Akshat-xe/Arvind-Canteen-Barharwa](https://github.com/Akshat-xe/Arvind-Canteen-Barharwa) | [arvindcafe.shtar.space](https://arvindcafe.shtar.space) |
-| 07 | **Angira's Radiant Diet Plan** — Bilingual mobile-first wellness app | [github.com/Akshat-xe/Angira-Radiant-Diet-Plan](https://github.com/Akshat-xe/Angira-Radiant-Diet-Plan) | [angira-diet.shtar.space](https://angira-diet.shtar.space) |
-| 08 | **Kaya Remedies** — Modern botanical & natural remedy library | [github.com/Akshat-xe/Kaya-Remedies-Shtar](https://github.com/Akshat-xe/Kaya-Remedies-Shtar) | [kaya-remedies.shtar.space](https://kaya-remedies.shtar.space/) |
-| 09 | **Portfolio** — Personal portfolio & showcase codebase | [github.com/Akshat-xe/Portfolio](https://github.com/Akshat-xe/Portfolio) | [akshat.shtar.space](https://akshat.shtar.space) |
-| 10 | **Nihshreyasa Vidyapeeth** — Educational & cultural portal | [github.com/Akshat-xe/Nihshreyasa-Vidyapeeth](https://github.com/Akshat-xe/Nihshreyasa-Vidyapeeth) | [nv.shtar.space](https://nv.shtar.space) |
+| 07 | **Portfolio** — Personal portfolio & showcase codebase | [github.com/Akshat-xe/Portfolio](https://github.com/Akshat-xe/Portfolio) | [akshat.shtar.space](https://akshat.shtar.space) |
+| 08 | **Nihshreyasa Vidyapeeth** — Educational & cultural portal | [github.com/Akshat-xe/Nihshreyasa-Vidyapeeth](https://github.com/Akshat-xe/Nihshreyasa-Vidyapeeth) | [nv.shtar.space](https://nv.shtar.space) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180000,100:460000&height=2" width="100%" />
 
