@@ -93,7 +93,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshat-xe&bg_color=080808&color=777777&line=880000&point=BB2222&area=true&hide_border=true&title_color=888888&radius=4)](https://github.com/Akshat-xe)
+[![Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=Akshat-xe&bg_color=080808&color=777777&line=880000&point=BB2222&area=true&hide_border=true&title_color=888888&radius=4)](https://github.com/Akshat-xe)
 
 </div>
 
